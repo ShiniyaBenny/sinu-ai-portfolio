@@ -97,7 +97,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-8 py-5 flex justify-between items-center">
 
           <h1 className="text-2xl font-bold tracking-wide">
-            Sinu
+            Shiniya Benny
           </h1>
 
           <div className="hidden md:flex gap-10 text-zinc-400">
